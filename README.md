@@ -20,4 +20,4 @@
   <a href="https://www.linkedin.com/in/matheus-franco-carlos-07714b222/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-![Snake animation](https://github.com/myyrez/myyrez/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/myyrez/myyrez/blob/output/github-contribution-grid-snake.svg)
