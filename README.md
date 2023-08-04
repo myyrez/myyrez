@@ -1,4 +1,3 @@
-<img align="center" alt="gif" src="https://media.discordapp.net/attachments/916344823252926467/1137115253096849498/cat-cute.gif?width=76&height=76" />
 
 <div>
   <a></a>
@@ -18,4 +17,6 @@
 
 <div>
   <a href="https://www.linkedin.com/in/matheus-franco-carlos-07714b222/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
+</div><br>
+
+<img align="center" alt="gif" src="https://media.discordapp.net/attachments/916344823252926467/1137115253096849498/cat-cute.gif?width=76&height=76" />
